@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
-    "react": "16.8.4",
+    "react": "^16.8.4",
     "react-dom": "16.8.4",
     "react-hook-form": "3.24.1-beta.2",
     "react-scripts": "2.1.8"
